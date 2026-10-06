@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" fill="#17191c"/>
+  <!-- Купе: широкая низкая чаша на ножке. Силуэт без деталей — читается в 16 px. -->
+  <path d="M12 15H52A20 17 0 0 1 12 15Z" fill="#d4a45c"/>
+  <rect x="30" y="31" width="4" height="17" fill="#d4a45c"/>
+  <rect x="20" y="46" width="24" height="4" rx="2" fill="#d4a45c"/>
+</svg>
