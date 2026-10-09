@@ -1,1 +1,0 @@
-if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/mise-demo/sw.js', { scope: '/mise-demo/' })})}
